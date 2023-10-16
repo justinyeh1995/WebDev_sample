@@ -1,0 +1,22 @@
+{
+  "name": "simple_project",
+  "version": "0.1.0",
+  "description": "Class Work Session",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinyeh1995/WebDev_sample.git"
+  },
+  "keywords": [
+    "vandy"
+  ],
+  "author": "Justin Yeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinyeh1995/WebDev_sample/issues"
+  },
+  "homepage": "https://github.com/justinyeh1995/WebDev_sample#readme"
+}
